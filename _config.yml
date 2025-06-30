@@ -1,1 +1,5 @@
-
+title: DataDeletion
+#logo
+description: For deleting your data
+#show_downloading: true
+theme: jekyll-theme-minimal
